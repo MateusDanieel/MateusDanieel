@@ -11,7 +11,6 @@ Sou formado como **técnico em desenvolvimento de sistemas** pela Escola Técnic
 
 Atualmente trabalho para a agência **Tritone Interactive**.
 
-<!-- SOCIAL -->
 <p align="left">
   <a href="https://bitbucket.org/MateusDanieel/" target="_black">
     <img alt="BitBucket Badge" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" title="BitBucket" />
@@ -36,7 +35,8 @@ Atualmente trabalho para a agência **Tritone Interactive**.
   </a>
 </p>
 
-<!-- STACKS & SKILLS -->
+## STACKS & SKILLS 💻
+
 <p align="left">
 	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" />
 	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" />
