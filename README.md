@@ -33,6 +33,9 @@ Atualmente sou desenvolvedor front-end júnior na agência **Tritone Interactive
 	<a href="https://twitter.com/mateusdanieel" target="_black">
 		<img alt="Twitter Badge" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter" />
 	</a>
+	<a href="https://codepen.io/mateusdanieel" target="_black">
+		<img alt="CodePen Badge" src="https://img.shields.io/badge/CodePen-FFFFFF?style=for-the-badge&logo=codepen&logoColor=black" title="CodePen" />
+	</a>
 </p>
 
 ## STACKS & SKILLS 💻
