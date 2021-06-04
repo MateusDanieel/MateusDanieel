@@ -9,7 +9,7 @@ Muito prazer, me chamo Mateus, tenho 24 anos, nascido e criado em São Paulo - S
 
 Sou formado como **Técnico em Desenvolvimento de Sistemas** pela Escola Técnica Estadual de São Paulo (ETEC), apaixonado por desenvolvimento front-end e por tecnologia como um todo.
 
-Atualmente sou desenvolvedor front-end júnior na agência **Tritone Interactive**.
+Atualmente sou desenvolvedor front-end na agência **Tritone Interactive**.
 
 <p align="left">
 	<a href="https://bitbucket.org/MateusDanieel/" target="_black">
