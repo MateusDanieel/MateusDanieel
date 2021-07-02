@@ -21,9 +21,9 @@ Atualmente sou desenvolvedor front-end na agência **Tritone Interactive**.
 	<a href="https://www.linkedin.com/in/mateusdanieel/" target="_black">
 		<img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin" />
 	</a>
-	<a href="mailto:mateusdaniiel@live.com" target="_black">
+	<!--<a href="mailto:mateusdaniiel@live.com" target="_black">
 		<img alt="Outlook Badge" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" title="E-mail" />
-	</a>
+	</a>-->
 	<a href="https://mateusdanieel.github.io/" target="_black">
 		<img alt="Portfólio Badge" src="https://img.shields.io/badge/Portfólio-323330?style=for-the-badge&logo=google-chrome&logoColor=white" title="Portfólio" />
 	</a>
