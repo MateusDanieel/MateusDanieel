@@ -15,15 +15,21 @@ Atualmente sou desenvolvedor front-end na agência **Tritone Interactive**.
 	<a href="https://bitbucket.org/MateusDanieel/" target="_black">
 		<img alt="BitBucket Badge" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" title="BitBucket" />
 	</a>
+	<a href="https://facebook.com/mateusdaniel.dev" target="_black">
+		<img alt="Facebook Badge" src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" />
+	</a>
 	<a href="https://github.com/MateusDanieel" target="_black">
 		<img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" />
+	</a>
+	<a href="https://instagram.com/mateusdaniel.dev" target="_black">
+		<img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" />
 	</a>
 	<a href="https://www.linkedin.com/in/mateusdanieel/" target="_black">
 		<img alt="Linkedin Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin" />
 	</a>
-	<!--<a href="mailto:mateusdaniiel@live.com" target="_black">
-		<img alt="Outlook Badge" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" title="E-mail" />
-	</a>-->
+	<a href="mailto:mateusdaniel.dev@gmail.com" target="_black">
+		<img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" />
+	</a>
 	<a href="https://mateusdanieel.github.io/" target="_black">
 		<img alt="Portfólio Badge" src="https://img.shields.io/badge/Portfólio-323330?style=for-the-badge&logo=google-chrome&logoColor=white" title="Portfólio" />
 	</a>
