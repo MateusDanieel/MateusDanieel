@@ -12,6 +12,8 @@ Sou formado como **Técnico em Desenvolvimento de Sistemas** pela Escola Técnic
 Atualmente sou desenvolvedor front-end na agência **Tritone Interactive**.
 
 <p align="left">
+	<a href="https://mateusdanieel.github.io/" target="_black">
+		<img alt="Portfólio Badge" src="https://img.shields.io/badge/Portfólio-323330?style=for-the-badge&logo=google-chrome&logoColor=white" title="Portfólio" />
 	<a href="https://bitbucket.org/MateusDanieel/" target="_black">
 		<img alt="BitBucket Badge" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" title="BitBucket" />
 	</a>
@@ -30,8 +32,6 @@ Atualmente sou desenvolvedor front-end na agência **Tritone Interactive**.
 	<a href="mailto:mateusdaniel.dev@gmail.com" target="_black">
 		<img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" title="E-mail" />
 	</a>
-	<a href="https://mateusdanieel.github.io/" target="_black">
-		<img alt="Portfólio Badge" src="https://img.shields.io/badge/Portfólio-323330?style=for-the-badge&logo=google-chrome&logoColor=white" title="Portfólio" />
 	</a>
 	<a href="https://pt.stackoverflow.com/users/175751/mateus-daniel" target="_black">
 		<img alt="StackOverflow Badge" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" title="SOpt" />
