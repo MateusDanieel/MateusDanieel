@@ -8,9 +8,7 @@
 Muito prazer, me chamo Mateus, tenho 26 anos, nascido e criado em São Paulo - SP.
 
 Sou formado como **Técnico em Desenvolvimento de Sistemas** pela Escola Técnica Estadual de São Paulo (ETEC), apaixonado por desenvolvimento front-end e por tecnologia como um todo.
-
-Atualmente sou desenvolvedor front-end na agência **Tritone Interactive**.
-
+<!--
 <p align="left">
 	<a href="https://mateusdanieel.github.io/" target="_black">
 		<img alt="Portfólio Badge" src="https://img.shields.io/badge/Portfólio-323330?style=for-the-badge&logo=google-chrome&logoColor=white" title="Portfólio" />
@@ -63,3 +61,4 @@ Atualmente sou desenvolvedor front-end na agência **Tritone Interactive**.
 	<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" title="Photoshop" />
 	<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" title="Adobe XD" />
 </p>
+-->
