@@ -5,7 +5,7 @@
 
 ## HELLO THERE! 👋
 
-Muito prazer, me chamo Mateus, tenho 26 anos, nascido e criado em São Paulo - SP.
+Muito prazer, me chamo Mateus, tenho 27 anos, nascido e criado em São Paulo - SP.
 
 Sou formado como **Técnico em Desenvolvimento de Sistemas** pela Escola Técnica Estadual de São Paulo (ETEC), apaixonado por desenvolvimento front-end e por tecnologia como um todo.
 <!--
