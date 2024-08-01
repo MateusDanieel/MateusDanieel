@@ -3,12 +3,13 @@
 	<img alt="Mateus Daniel Front End Developer" loading="lazy" src="./assets/cover.gif" style="border-radius: 15px; box-shadow: 5px 5px 5px 5px rgba(0,0,0,.5);" title="Mateus Daniel - Front End Developer" />
 </p>
 
+<!--
 ## HELLO THERE! 👋
 
 Muito prazer, me chamo Mateus, tenho 27 anos, nascido e criado em São Paulo - SP.
 
 Sou formado como **Técnico em Desenvolvimento de Sistemas** pela Escola Técnica Estadual de São Paulo (ETEC), apaixonado por desenvolvimento front-end e por tecnologia como um todo.
-<!--
+
 <p align="left">
 	<a href="https://mateusdanieel.github.io/" target="_black">
 		<img alt="Portfólio Badge" src="https://img.shields.io/badge/Portfólio-323330?style=for-the-badge&logo=google-chrome&logoColor=white" title="Portfólio" />
